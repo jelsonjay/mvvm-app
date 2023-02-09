@@ -11,6 +11,8 @@
 		14AECD902993D3E3005F8A4D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14AECD8F2993D3E3005F8A4D /* ContentView.swift */; };
 		14AECD922993D3E4005F8A4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14AECD912993D3E4005F8A4D /* Assets.xcassets */; };
 		14AECD952993D3E4005F8A4D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14AECD942993D3E4005F8A4D /* Preview Assets.xcassets */; };
+		14AECD9C2993D6C7005F8A4D /* StoreModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14AECD9B2993D6C7005F8A4D /* StoreModel.swift */; };
+		14AECD9E2993D88C005F8A4D /* Content-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14AECD9D2993D88C005F8A4D /* Content-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		14AECD8F2993D3E3005F8A4D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		14AECD912993D3E4005F8A4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14AECD942993D3E4005F8A4D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14AECD9B2993D6C7005F8A4D /* StoreModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreModel.swift; sourceTree = "<group>"; };
+		14AECD9D2993D88C005F8A4D /* Content-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Content-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				14AECD8F2993D3E3005F8A4D /* ContentView.swift */,
 				14AECD912993D3E4005F8A4D /* Assets.xcassets */,
 				14AECD932993D3E4005F8A4D /* Preview Content */,
+				14AECD9B2993D6C7005F8A4D /* StoreModel.swift */,
+				14AECD9D2993D88C005F8A4D /* Content-ViewModel.swift */,
 			);
 			path = Product;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				14AECD902993D3E3005F8A4D /* ContentView.swift in Sources */,
 				14AECD8E2993D3E3005F8A4D /* ProductApp.swift in Sources */,
+				14AECD9E2993D88C005F8A4D /* Content-ViewModel.swift in Sources */,
+				14AECD9C2993D6C7005F8A4D /* StoreModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
